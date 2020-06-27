@@ -24,7 +24,7 @@
 
 # ScreenShots
 <img src="./devtoss.png">
-<img src="./wikipediass.png">
+<img src="./wiki.PNG">
 
 
 
