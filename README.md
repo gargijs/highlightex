@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="./highlightex.png" width = "1400px"/>
+    <img src="./Highlightex.png" width = "1400px"/>
   </a>
 </p>
 <h1 align="center">
