@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="./highlightexbanner.png" width = "1400px"/>
+    <img src="./highlightex.png" width = "1400px"/>
   </a>
 </p>
 <h1 align="center">
@@ -29,8 +29,7 @@
 
 
 # How to Install as Chrome Extension?
- * * You can download this from the Chrome Store:
-
+* You can download this from the Chrome Store.
 * The Highlightex Chrome Store Page
 * To install from source added as an "unpacked extension":
 * download the zip file from releases
